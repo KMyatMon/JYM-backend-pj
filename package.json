@@ -1,0 +1,14 @@
+{
+  "name": "res_rating_pj",
+  "version": "1.0.0",
+  "description": "restaurant rating project with JYM",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
